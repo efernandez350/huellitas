@@ -1,0 +1,17 @@
+test_conversion_y_validacion_de_fechas (test_huellitas.PruebasHuellitas.test_conversion_y_validacion_de_fechas) ... ok
+test_cuidado_requiere_mascota_existente (test_huellitas.PruebasHuellitas.test_cuidado_requiere_mascota_existente) ... ok
+test_eliminacion_de_cuidado (test_huellitas.PruebasHuellitas.test_eliminacion_de_cuidado) ... ok
+test_eliminacion_de_mascota (test_huellitas.PruebasHuellitas.test_eliminacion_de_mascota) ... ok
+test_eliminacion_en_cascada_controlada (test_huellitas.PruebasHuellitas.test_eliminacion_en_cascada_controlada) ... ok
+test_modificacion_de_mascota (test_huellitas.PruebasHuellitas.test_modificacion_de_mascota) ... ok
+test_modificacion_y_cambio_de_estado (test_huellitas.PruebasHuellitas.test_modificacion_y_cambio_de_estado) ... ok
+test_persistencia_al_reabrir_la_base (test_huellitas.PruebasHuellitas.test_persistencia_al_reabrir_la_base) ... ok
+test_registro_y_consulta_de_mascota (test_huellitas.PruebasHuellitas.test_registro_y_consulta_de_mascota) ... ok
+test_registro_y_relacion_de_cuidado (test_huellitas.PruebasHuellitas.test_registro_y_relacion_de_cuidado) ... ok
+test_transformacion_funcional_no_modifica_lista (test_huellitas.PruebasHuellitas.test_transformacion_funcional_no_modifica_lista) ... ok
+test_validacion_de_campos_obligatorios (test_huellitas.PruebasHuellitas.test_validacion_de_campos_obligatorios) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.292s
+
+OK
